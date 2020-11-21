@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "coffee"
+theme = "1950s"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -135,7 +135,7 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "2006年1月2日"
+date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
